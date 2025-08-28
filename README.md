@@ -30,7 +30,12 @@ This repository serves as a collection of reusable materials, example reports, a
 
 ---
 
-## 📝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 If you’d like to add dashboards, datasets, or scripts, feel free to fork this repository and submit a pull request.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
