@@ -24,6 +24,7 @@ This repository serves as a collection of reusable materials, example reports, a
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Gireeshs02/PowerBI.git
+   cd PowerBI
    ```
 2. **Open ```.pbix``` files in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).**
 3. **Load sample data or connect to your own dataset.**
